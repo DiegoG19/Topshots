@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER":"diegog",
+        "MONGO_PASSWORD":"diego1239",
+        "MONGO_DB": "game-info"
+    }
+}
